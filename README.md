@@ -6,7 +6,6 @@ Uses a standard minimax algorithm (with 2 plys/moves into the future) to evaluat
 User is black and computer is white always.
 
 To play:
-	Use the arrow keys to select a place to put your black piece
-	Press enter to place a piece
-	Press R to restart
-
+Use the arrow keys to select a place to put your black piece
+Press enter to place a piece
+Press R to restart
