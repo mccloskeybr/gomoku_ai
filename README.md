@@ -13,3 +13,9 @@ Use the arrow keys to select a place to put your black piece
 Press enter to place a piece
 
 Press R to restart
+
+
+
+Inspiration from, and basic reference:
+
+https://blog.theofekfoundation.org/artificial-intelligence/2015/12/11/minimax-for-gomoku-connect-five/
